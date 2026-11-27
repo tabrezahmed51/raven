@@ -12,7 +12,7 @@ charset-normalizer==3.4.1
     # via requests
 colorama==0.4.6
     # via -r requirements.in
-idna==3.10
+idna==3.15
     # via requests
 interchange==2021.0.4
     # via py2neo
@@ -24,7 +24,7 @@ packaging==24.2
     # via py2neo
 pansi==2024.11.0
     # via py2neo
-pillow==11.1.0
+pillow==12.2.0
     # via pansi
 py2neo==2021.2.4
     # via -r requirements.in
@@ -36,7 +36,7 @@ pyyaml==6.0.2
     # via -r requirements.in
 redis==5.2.1
     # via -r requirements.in
-requests==2.32.3
+requests==2.33.0
     # via -r requirements.in
 six==1.17.0
     # via
@@ -46,7 +46,7 @@ slack-sdk==3.34.0
     # via -r requirements.in
 tqdm==4.67.1
     # via -r requirements.in
-urllib3==2.3.0
+urllib3==2.7.0
     # via
     #   py2neo
     #   requests
